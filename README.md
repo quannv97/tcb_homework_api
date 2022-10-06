@@ -109,6 +109,7 @@ by using command:
 sh run_using_local_env.sh
 ```
 it will take time for downloading some Java and Spring libraries.
+
 ![](images/deploy.png)
 
 ## 3. Testing
@@ -123,7 +124,7 @@ After RESTApi server started, there are 2 ways to test API, which are:
 
 ![](images/query.png)
 
-![](images/getPool.png)
+![](images/checkPool.png)
 
 #### Swagger UI:
 
