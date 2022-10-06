@@ -110,7 +110,7 @@ sh run_using_local_env.sh
 ```
 it will take time for downloading some Java and Spring libraries.
 
-![](images/deploy.png)
+![](images/deploy.PNG)
 
 ## 3. Testing
 
@@ -120,15 +120,15 @@ After RESTApi server started, there are 2 ways to test API, which are:
 
 #### Tools:
 
-![](images/createPool.png)
+![](images/createPool.PNG)
 
 ![](images/query.png)
 
-![](images/checkPool.png)
+![](images/checkPool.PNG)
 
 #### Swagger UI:
 
-![](images/swagger.png)
+![](images/swagger.PNG)
 
 ###  *Thank you so much for testing this application*
 ### *If you have any question or doubt, please PM via HR!*
