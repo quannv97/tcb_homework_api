@@ -82,8 +82,7 @@ output:
 ##### % *please do not use a library for the quantile calculation if a pool contains less than 100 values.*
 > Use Java as native
 ##### % *focus on high performance if possible (time permitting) and resiliency*
->
-> > Application runs with further requests and data (old and new) are stored in ConcurrentHashMap which interface provides Multiple access for storing data and on RAM.
+> Application runs with further requests and data (old and new) are stored in ConcurrentHashMap which interface provides Multiple access for storing data and on RAM.
 ##### % *reasoning about high-availability and scalability is a nice-to-have*
 > Because it used SpringBoot and Java technology for developing, so It can be deployed wit HA and scalability.
 ##### % *no database; no connection to anything needed. Keep it simple.*
